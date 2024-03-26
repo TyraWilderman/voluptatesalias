@@ -1,0 +1,21 @@
+{
+  "name": "voluptatesalias",
+  "bin": "./main.js",
+  "version": "1.0.0",
+  "description": "looks for a seed whos account[0] public key starts with the search string",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TyraWilderman/voluptatesalias.git"
+  },
+  "author": "AdeliaHartmann",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "ethers": "^5.4.1"
+  },
+  "homepage": "https://github.com/TyraWilderman/voluptatesalias.git"
+}
